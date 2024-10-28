@@ -2,7 +2,7 @@ package com.xworkz.product.runner;
 
 import com.xworkz.product.dao.Product;
 import com.xworkz.product.dao.ProductImpl;
-import com.xworkz.product.entity.ProductDto;
+import com.xworkz.product.dto.ProductDto;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;

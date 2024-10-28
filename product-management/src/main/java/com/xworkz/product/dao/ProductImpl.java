@@ -1,6 +1,6 @@
 package com.xworkz.product.dao;
 
-import com.xworkz.product.entity.ProductDto;
+import com.xworkz.product.dto.ProductDto;
 
 public class ProductImpl implements Product{
 

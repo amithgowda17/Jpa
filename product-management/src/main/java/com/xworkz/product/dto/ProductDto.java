@@ -1,4 +1,4 @@
-package com.xworkz.product.entity;
+package com.xworkz.product.dto;
 
 
 import lombok.*;
